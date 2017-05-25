@@ -1,0 +1,16 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Cep Müzik İndir</ShortName>
+<Description>
+The best MP3 Downloader online. YouTube MP3 Download converts YouTube Videos to mp3 from different providers online and for free
+</Description>
+<Description>...</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16" type="image/x-icon">
+http://www.cepmuzikindirdur.biz/images/favicon.ico
+</Image>
+<Image height="16" width="16" type="image/x-icon">...</Image>
+<Url type="text/html" method="GET" template="http://www.cepmuzikindirdur.biz/search.php?q={searchTerms}"></Url>
+<Url type="application/x-suggestions+json" template="suggestionURL"/>
+<moz:SearchForm>searchFormURL</moz:SearchForm>
+</OpenSearchDescription>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">...</OpenSearchDescription>
